@@ -22,81 +22,74 @@ Features are normalized and bounded within [-1,1] so we don't need units.
 Variables in a final data set:
 
 subject
-  * Persons who attended experimant. 30 persons.
-  ** 1..30
+  * Persons who attended experimant. 30 persons. (1..30)
     
 activity
-	Type of activity
-     Walking
-      Walking Upstairs
-     Walking Downstairs
-      Sitting
-      Standing
-      Laying
+* Type of activity (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying)
 tBodyAcc.mean...X
-   body acceleration mean by X-axis (time domain signal)
+   * body acceleration mean by X-axis (time domain signal)
 tBodyAcc.mean...Y
-    body acceleration mean by Y-axis (time domain signal)
+    * body acceleration mean by Y-axis (time domain signal)
 tBodyAcc.mean...Z
-  body acceleration mean by Z-axis (time domain signal)
+  * body acceleration mean by Z-axis (time domain signal)
 tGravityAcc.mean...X
-  gravity acceleration mean by X-axis (time domain signal)
+  * gravity acceleration mean by X-axis (time domain signal)
 tGravityAcc.mean...Y
-  gravity acceleration mean by Y-axis (time domain signal)
+  * gravity acceleration mean by Y-axis (time domain signal)
 tGravityAcc.mean...Z
-  gravity acceleration mean by Z-axis (time domain signal)
+  * gravity acceleration mean by Z-axis (time domain signal)
 tBodyAccJerk.mean...X
-  body acceleration Jerk signal mean by X-axis (time domain signal)
+  * body acceleration Jerk signal mean by X-axis (time domain signal)
 tBodyAccJerk.mean...Y
-   body acceleration Jerk signal mean by Y-axis (time domain signal)
+   * body acceleration Jerk signal mean by Y-axis (time domain signal)
 tBodyAccJerk.mean...Z
-   body acceleration Jerk signal mean by Z-axis (time domain signal)
+   * body acceleration Jerk signal mean by Z-axis (time domain signal)
 tBodyGyro.mean...X
-  gyroscope signal mean by X-axis (time domain signal)
+  * gyroscope signal mean by X-axis (time domain signal)
 tBodyGyro.mean...Y
-  gyroscope signal mean by Y-axis (time domain signal)
+  * gyroscope signal mean by Y-axis (time domain signal)
 tBodyGyro.mean...Z
-  gyroscope signal mean by Z-axis (time domain signal)
+  * gyroscope signal mean by Z-axis (time domain signal)
 tBodyGyroJerk.mean...X
-  Jerk gyroscope signal mean by X-axis (time domain signal)
+  * Jerk gyroscope signal mean by X-axis (time domain signal)
 tBodyGyroJerk.mean...Y
-  Jerk gyroscope signal mean by Y-axis (time domain signal)
+  * Jerk gyroscope signal mean by Y-axis (time domain signal)
 tBodyGyroJerk.mean...Z
- Jerk gyroscope signal mean by Z-axis (time domain signal)
+ * Jerk gyroscope signal mean by Z-axis (time domain signal)
 tBodyAccMag.mean..
-  Magnitude of body acceleration signal mean (time domain signal)
+  * Magnitude of body acceleration signal mean (time domain signal)
 tGravityAccMag.mean..
-  Magnitude of gravity acceleration signal mean(time domain signal)
+  * Magnitude of gravity acceleration signal mean(time domain signal)
 tBodyAccJerkMag.mean..
-  Magnitude of Jerk signal body acceleration signal mean(time domain signal)
+  * Magnitude of Jerk signal body acceleration signal mean(time domain signal)
 tBodyGyroMag.mean..
-  Magnitude of body gyroscope signal mean(time domain signal)
+  * Magnitude of body gyroscope signal mean(time domain signal)
 tBodyGyroJerkMag.mean..
-  Magnitude of Jerk signal body gyroscope signal mean(time domain signal)
+  * Magnitude of Jerk signal body gyroscope signal mean(time domain signal)
 fBodyAcc.mean...X
-  body acceleration by X-axis mean(Fast Fourier Transform)
+  * body acceleration by X-axis mean(Fast Fourier Transform)
 fBodyAcc.mean...Y
-  body acceleration by Y-axis mean (Fast Fourier Transform)
+  * body acceleration by Y-axis mean (Fast Fourier Transform)
 fBodyAcc.mean...Z
-  body acceleration by Z-axis mean (Fast Fourier Transform)
+  * body acceleration by Z-axis mean (Fast Fourier Transform)
 fBodyAcc.meanFreq...X
-  body acceleration mean frequancy by X-axis (Fast Fourier Transform)
+  * body acceleration mean frequancy by X-axis (Fast Fourier Transform)
 fBodyAcc.meanFreq...Y
-  body acceleration mean frequancy by Y-axis (Fast Fourier Transform)
+  * body acceleration mean frequancy by Y-axis (Fast Fourier Transform)
 fBodyAcc.meanFreq...Z
-  body acceleration mean frequancy by Z-axis (Fast Fourier Transform)
+  * body acceleration mean frequancy by Z-axis (Fast Fourier Transform)
 fBodyAccJerk.mean...X
-  jerk body acceleration  mean signal by X-axis (Fast Fourier Transform)
+  * jerk body acceleration  mean signal by X-axis (Fast Fourier Transform)
 fBodyAccJerk.mean...Y
-  jerk body acceleration mean signal by Y-axis (Fast Fourier Transform)
+  * jerk body acceleration mean signal by Y-axis (Fast Fourier Transform)
 fBodyAccJerk.mean...Z
-  jerk body acceleration mean signal by Z-axis (Fast Fourier Transform)
+  * jerk body acceleration mean signal by Z-axis (Fast Fourier Transform)
 fBodyAccJerk.meanFreq...X
-  jerk body acceleration signal mean frequancy by X-axis (Fast Fourier Transform)
+  * jerk body acceleration signal mean frequancy by X-axis (Fast Fourier Transform)
 fBodyAccJerk.meanFreq...Y
-  jerk body acceleration signal mean frequancy by Y-axis (Fast Fourier Transform)
+  * jerk body acceleration signal mean frequancy by Y-axis (Fast Fourier Transform)
 fBodyAccJerk.meanFreq...Z
-  jerk body acceleration signal mean frequancy by Z-axis (Fast Fourier Transform)
+  * jerk body acceleration signal mean frequancy by Z-axis (Fast Fourier Transform)
 fBodyGyro.mean...X
   body gyroscope signal mean by X-axis (Fast Fourier Transform)
 fBodyGyro.mean...Y
