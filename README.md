@@ -23,4 +23,4 @@
 #####It's wide-form of tidy-data. 
 
 ###4. How to read final file into R
-##### Please, put file to your working directort and use the followong command read.table("tidydata.txt", header = TRUE)
+##### Please, put file to your working directory and use the following command read.table("tidydata.txt", header = TRUE)
