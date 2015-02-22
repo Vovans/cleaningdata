@@ -22,8 +22,11 @@ Features are normalized and bounded within [-1,1] so we don't need units.
 Variables in a final data set:
 
 subject
-  Persons who attended experimant. 30 persons. 
+
+  Persons who attended experimant. 30 persons.
+  
     1..30
+    
 activity
   Type of activity
     Walking
