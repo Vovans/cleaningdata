@@ -26,7 +26,7 @@ subject
  
 activity
  * Type of activity (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying)
- * 
+  
 tBodyAcc.mean...X
   * body acceleration mean by X-axis (time domain signal)
   * 
