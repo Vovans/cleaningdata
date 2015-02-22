@@ -15,7 +15,6 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 =================
-Please also note that all about script work is in ReadMe.md in the same repo. 
 
 Features are normalized and bounded within [-1,1] so we don't need units. 
 
