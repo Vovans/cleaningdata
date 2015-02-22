@@ -26,7 +26,7 @@ subject
 		1..30
     
 activity
-    Type of activity
+	Type of activity
      Walking
       Walking Upstairs
      Walking Downstairs
