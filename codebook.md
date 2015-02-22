@@ -68,7 +68,7 @@ tBodyGyroJerk.mean...X
 
 tBodyGyroJerk.mean...Y
   * Jerk gyroscope signal mean by Y-axis (time domain signal)
-  * 
+
 tBodyGyroJerk.mean...Z
  * Jerk gyroscope signal mean by Z-axis (time domain signal)
 
@@ -142,125 +142,125 @@ fBodyGyro.meanFreq...Z
   * body gyroscope signal mean frequancy by Z-axis (Fast Fourier Transform)
 
 fBodyAccMag.mean..
-  Magnitude body acceleration mean (Fast Fourier Transform)
+  * Magnitude body acceleration mean (Fast Fourier Transform)
 
 fBodyAccMag.meanFreq..
-   Magnitude body acceleration mean frequancy (Fast Fourier Transform)
+   * Magnitude body acceleration mean frequancy (Fast Fourier Transform)
 
 fBodyAccJerkMag.mean..
-  Magnitude Jerk body acceleration signal mean (Fast Fourier Transform)
+  * Magnitude Jerk body acceleration signal mean (Fast Fourier Transform)
 
 fBodyAccJerkMag.meanFreq..
-  Magnitude Jerk body acceleration signal mean frequancy (Fast Fourier Transform)
+ *  Magnitude Jerk body acceleration signal mean frequancy (Fast Fourier Transform)
 
 fBodyGyroMag.mean..
-  Magnitude body gyroscpope mean (Fast Fourier Transform)
+ *  Magnitude body gyroscpope mean (Fast Fourier Transform)
 
 fBodyGyroMag.meanFreq..
-  Magnitude body gyroscpope mean frequency (Fast Fourier Transform)
+  * Magnitude body gyroscpope mean frequency (Fast Fourier Transform)
 
 fBodyGyroJerkMag.mean..
-  Magnitude jerk body gyroscpope mean ((Fast Fourier Transform)
+  * Magnitude jerk body gyroscpope mean ((Fast Fourier Transform)
 
 fBodyGyroJerkMag.meanFreq..
-  Magnitude jerk body gyroscpope mean frequency (Fast Fourier Transform)
+  * Magnitude jerk body gyroscpope mean frequency (Fast Fourier Transform)
 
 tBodyAcc.std...X
-  body acceleration by X-axis standard deviation (time domain signal)
+ *  body acceleration by X-axis standard deviation (time domain signal)
 
 tBodyAcc.std...Y
-  body acceleration by Y-axis standard deviation (time domain signal)
+  * body acceleration by Y-axis standard deviation (time domain signal)
 
 tBodyAcc.std...Z
-  body acceleration by Z-axis standard deviation (time domain signal)
+  * body acceleration by Z-axis standard deviation (time domain signal)
 
 tGravityAcc.std...X
-  gravity acceleration by X-axis standard deviation (time domain signal)
+  * gravity acceleration by X-axis standard deviation (time domain signal)
 
 tGravityAcc.std...Y
-  gravity acceleration by Y-axis standard deviation (time domain signal)
+  * gravity acceleration by Y-axis standard deviation (time domain signal)
 
 tGravityAcc.std...Z
-  gravity acceleration by Z-axis standard deviation (time domain signal)
+  * gravity acceleration by Z-axis standard deviation (time domain signal)
 
 tBodyAccJerk.std...X
-  jerk signal body acceleration by X-axis standard deviation (time domain signal)
+  * jerk signal body acceleration by X-axis standard deviation (time domain signal)
 
 tBodyAccJerk.std...Y
-  jerk signal body acceleration by Y-axis standard deviation (time domain signal)
+  * jerk signal body acceleration by Y-axis standard deviation (time domain signal)
 
 tBodyAccJerk.std...Z
-  jerk signal body acceleration by Z-axis standard deviation (time domain signal)
+  * jerk signal body acceleration by Z-axis standard deviation (time domain signal)
 
 tBodyGyro.std...X
-  body gyroscope signal by X-axis standard deviation (time domain signal)
+ *  body gyroscope signal by X-axis standard deviation (time domain signal)
 
 tBodyGyro.std...Y
-  body gyroscope signal by Y-axis standard deviation (time domain signal)
+  * body gyroscope signal by Y-axis standard deviation (time domain signal)
 
 tBodyGyro.std...Z
-  body gyroscope signal by Z-axis standard deviation (time domain signal)
+  * body gyroscope signal by Z-axis standard deviation (time domain signal)
 
 tBodyGyroJerk.std...X
-  jerk body gyroscope signal by X-axis standard deviation (time domain signal)
+  * jerk body gyroscope signal by X-axis standard deviation (time domain signal)
 
 tBodyGyroJerk.std...Y
-  jerk body gyroscope signal by Y-axis standard deviation (time domain signal)
+  * jerk body gyroscope signal by Y-axis standard deviation (time domain signal)
 
 tBodyGyroJerk.std...Z
-  jerk body gyroscope signal by Z-axis standard deviation (time domain signal)
+  * jerk body gyroscope signal by Z-axis standard deviation (time domain signal)
 
 tBodyAccMag.std..
-  Magnitude body acceleration standard deviation (time domain signal)
+  * Magnitude body acceleration standard deviation (time domain signal)
 
 tGravityAccMag.std..
-  Magnitude gravity acceleration standard deviation (time domain signal)
+  * Magnitude gravity acceleration standard deviation (time domain signal)
 
 tBodyAccJerkMag.std..
-  Magnitude jerk body acceleration standard deviation (time domain signal)
+  * Magnitude jerk body acceleration standard deviation (time domain signal)
 
 tBodyGyroMag.std..
-  Magnitude body gyroscope standard deviation (time domain signal)
+  * Magnitude body gyroscope standard deviation (time domain signal)
 
 tBodyGyroJerkMag.std..
- Magnitude jerk body gyroscope signal standard deviation (time domain signal)
+ * Magnitude jerk body gyroscope signal standard deviation (time domain signal)
 
 fBodyAcc.std...X
-  body acceleration by X-axis standard deviation (Fast Fourier Transform)
+  * body acceleration by X-axis standard deviation (Fast Fourier Transform)
 
 fBodyAcc.std...Y
-  body acceleration by Y-axis standard deviation (Fast Fourier Transform)
+  * body acceleration by Y-axis standard deviation (Fast Fourier Transform)
 
 fBodyAcc.std...Z
-  body acceleration by Z-axis standard deviation (Fast Fourier Transform)
+  * body acceleration by Z-axis standard deviation (Fast Fourier Transform)
 
 fBodyAccJerk.std...X
-  jerk body acceleration by X-axis standard deviation (Fast Fourier Transform)
+  * jerk body acceleration by X-axis standard deviation (Fast Fourier Transform)
 
 fBodyAccJerk.std...Y
-  jerk body acceleration by Y-axis standard deviation (Fast Fourier Transform)
+  * jerk body acceleration by Y-axis standard deviation (Fast Fourier Transform)
 
 fBodyAccJerk.std...Z
-  jerk body acceleration by Z-axis standard deviation (Fast Fourier Transform)
+  * jerk body acceleration by Z-axis standard deviation (Fast Fourier Transform)
 
 fBodyGyro.std...X
-  jerk body gyroscope by X-axis standard deviation (Fast Fourier Transform)
+  * jerk body gyroscope by X-axis standard deviation (Fast Fourier Transform)
 
 fBodyGyro.std...Y
-  jerk body gyroscope by Y-axis standard deviation (Fast Fourier Transform)
+  * jerk body gyroscope by Y-axis standard deviation (Fast Fourier Transform)
 
 fBodyGyro.std...Z
-  jerk body gyroscope by Z-axis standard deviation (Fast Fourier Transform)
+  * jerk body gyroscope by Z-axis standard deviation (Fast Fourier Transform)
 
 fBodyAccMag.std..
-  Magnitude body acceleration (Fast Fourier Transform)
+  * Magnitude body acceleration (Fast Fourier Transform)
 
 fBodyAccJerkMag.std..
-  Magnitude jerk body acceleration (Fast Fourier Transform)
+  * Magnitude jerk body acceleration (Fast Fourier Transform)
 
 fBodyGyroMag.std..
-  Magnitude body gyroscope(Fast Fourier Transform)
+  * Magnitude body gyroscope(Fast Fourier Transform)
 
 fBodyGyroJerkMag.std..
-  Magnitude jerk body gyroscope (Fast Fourier Transform)
+  * Magnitude jerk body gyroscope (Fast Fourier Transform)
  
