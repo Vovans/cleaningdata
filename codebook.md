@@ -23,13 +23,13 @@ Variables in a final data set:
 
 subject
   * Persons who attended experimant. 30 persons. (1..30)
-    
+ 
 activity
-* Type of activity (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying)
+ * Type of activity (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying)
 tBodyAcc.mean...X
-   * body acceleration mean by X-axis (time domain signal)
+  * body acceleration mean by X-axis (time domain signal)
 tBodyAcc.mean...Y
-    * body acceleration mean by Y-axis (time domain signal)
+* body acceleration mean by Y-axis (time domain signal)
 tBodyAcc.mean...Z
   * body acceleration mean by Z-axis (time domain signal)
 tGravityAcc.mean...X
