@@ -29,7 +29,7 @@ activity
   
 tBodyAcc.mean...X
   * body acceleration mean by X-axis (time domain signal)
-  * 
+
 tBodyAcc.mean...Y
 * body acceleration mean by Y-axis (time domain signal)
  
@@ -56,88 +56,90 @@ tBodyAccJerk.mean...Z
 
 tBodyGyro.mean...X
   * gyroscope signal mean by X-axis (time domain signal)
+
 tBodyGyro.mean...Y
   * gyroscope signal mean by Y-axis (time domain signal)
-  * 
+
 tBodyGyro.mean...Z
   * gyroscope signal mean by Z-axis (time domain signal)
-  * 
+
 tBodyGyroJerk.mean...X
   * Jerk gyroscope signal mean by X-axis (time domain signal)
-  * 
+
 tBodyGyroJerk.mean...Y
   * Jerk gyroscope signal mean by Y-axis (time domain signal)
   * 
 tBodyGyroJerk.mean...Z
  * Jerk gyroscope signal mean by Z-axis (time domain signal)
- * 
+
 tBodyAccMag.mean..
   * Magnitude of body acceleration signal mean (time domain signal)
-  * 
+
 tGravityAccMag.mean..
   * Magnitude of gravity acceleration signal mean(time domain signal)
-  * 
+
 tBodyAccJerkMag.mean..
   * Magnitude of Jerk signal body acceleration signal mean(time domain signal)
-  * 
+
 tBodyGyroMag.mean..
   * Magnitude of body gyroscope signal mean(time domain signal)
+
 tBodyGyroJerkMag.mean..
   * Magnitude of Jerk signal body gyroscope signal mean(time domain signal)
-  * 
+
 fBodyAcc.mean...X
   * body acceleration by X-axis mean(Fast Fourier Transform)
-  * 
+
 fBodyAcc.mean...Y
   * body acceleration by Y-axis mean (Fast Fourier Transform)
-  * 
+
 fBodyAcc.mean...Z
   * body acceleration by Z-axis mean (Fast Fourier Transform)
-  * 
+
 fBodyAcc.meanFreq...X
   * body acceleration mean frequancy by X-axis (Fast Fourier Transform)
-  * 
+
 fBodyAcc.meanFreq...Y
   * body acceleration mean frequancy by Y-axis (Fast Fourier Transform)
-  * 
+
 fBodyAcc.meanFreq...Z
   * body acceleration mean frequancy by Z-axis (Fast Fourier Transform)
-  * 
+
 fBodyAccJerk.mean...X
   * jerk body acceleration  mean signal by X-axis (Fast Fourier Transform)
-  * 
+
 fBodyAccJerk.mean...Y
   * jerk body acceleration mean signal by Y-axis (Fast Fourier Transform)
-  * 
+
 fBodyAccJerk.mean...Z
   * jerk body acceleration mean signal by Z-axis (Fast Fourier Transform)
-  * 
+
 fBodyAccJerk.meanFreq...X
   * jerk body acceleration signal mean frequancy by X-axis (Fast Fourier Transform)
-  * 
+
 fBodyAccJerk.meanFreq...Y
   * jerk body acceleration signal mean frequancy by Y-axis (Fast Fourier Transform)
-  * 
+
 fBodyAccJerk.meanFreq...Z
   * jerk body acceleration signal mean frequancy by Z-axis (Fast Fourier Transform)
-  * 
+
 fBodyGyro.mean...X
-  body gyroscope signal mean by X-axis (Fast Fourier Transform)
+ * body gyroscope signal mean by X-axis (Fast Fourier Transform)
 
 fBodyGyro.mean...Y
-  body gyroscope signal mean by Y-axis (Fast Fourier Transform)
+  * body gyroscope signal mean by Y-axis (Fast Fourier Transform)
 
 fBodyGyro.mean...Z
-  body gyroscope signal mean by Z-axis (Fast Fourier Transform)
+  * body gyroscope signal mean by Z-axis (Fast Fourier Transform)
 
 fBodyGyro.meanFreq...X
-  body gyroscope signal mean frequancy by X-axis (Fast Fourier Transform)
+  * body gyroscope signal mean frequancy by X-axis (Fast Fourier Transform)
 
 fBodyGyro.meanFreq...Y
-  body gyroscope signal mean frequancy by Y-axis (Fast Fourier Transform)
+  * body gyroscope signal mean frequancy by Y-axis (Fast Fourier Transform)
 
 fBodyGyro.meanFreq...Z
-  body gyroscope signal mean frequancy by Z-axis (Fast Fourier Transform)
+  * body gyroscope signal mean frequancy by Z-axis (Fast Fourier Transform)
 
 fBodyAccMag.mean..
   Magnitude body acceleration mean (Fast Fourier Transform)
