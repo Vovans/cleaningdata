@@ -190,3 +190,4 @@ fBodyGyroMag.std..
   Magnitude body gyroscope(Fast Fourier Transform)
 fBodyGyroJerkMag.std..
   Magnitude jerk body gyroscope (Fast Fourier Transform)
+ 
